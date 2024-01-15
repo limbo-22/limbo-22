@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Richard Zhou, Imperial College London Year 3 EIE student.
 
 <!--
 **limbo-22/limbo-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
